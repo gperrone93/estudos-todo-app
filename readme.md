@@ -13,3 +13,4 @@ Estrutura MVC e OOP
 - rodar o comando composer install no projeto 
 - acessar sua aplicação na pasta /public 
 
+![alt text](etc/captura.PNG)
